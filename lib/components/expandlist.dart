@@ -27,7 +27,6 @@ import '../views/studentView/cbtDisplay.dart';
 class ExpandList extends StatelessWidget {
   final List<String> array;
 
-  // final String list1, list2, list3, list4, list5, list6, list7, list8;
   const ExpandList({super.key, required this.array});
 
   @override
