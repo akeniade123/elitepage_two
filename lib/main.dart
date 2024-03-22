@@ -5,6 +5,8 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
+  static var navigatorKey;
+
   const MyApp({super.key});
 
   // This widget is the root of your application.

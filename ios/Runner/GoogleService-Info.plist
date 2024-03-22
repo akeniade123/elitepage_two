@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>589420873783-0sqh0o4s0mjq48o18m8ov991jmseum21.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCeFsSsTpb4sPHRoiLW-31jeyFy78sp67U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>589420873783</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.elitepageTwo</string>
+	<key>PROJECT_ID</key>
+	<string>sambank-academy</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sambank-academy.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:589420873783:ios:77543e41353c0b8c0057b2</string>
+	<key>DATABASE_URL</key>
+	<string>https://sambank-academy-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

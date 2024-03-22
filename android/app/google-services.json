@@ -1,0 +1,230 @@
+{
+  "project_info": {
+    "project_number": "589420873783",
+    "firebase_url": "https://sambank-academy-default-rtdb.firebaseio.com",
+    "project_id": "sambank-academy",
+    "storage_bucket": "sambank-academy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:defbce1e941a044f0057b2",
+        "android_client_info": {
+          "package_name": "com.dlvtech.elitepageframework_king_david"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-0sqh0o4s0mjq48o18m8ov991jmseum21.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlvtech.elitepageframework_king_david",
+            "certificate_hash": "6b4d0b8613e10bebe91dce7e62792dadd3db187b"
+          }
+        },
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:7fa9d9d36dfc039c0057b2",
+        "android_client_info": {
+          "package_name": "com.dlvtech.elitepageframework_living_Seed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:bdcb3668b8e5cfaa0057b2",
+        "android_client_info": {
+          "package_name": "com.dlvtech.elitepageframework_nikky_bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:85c8970cbc0393550057b2",
+        "android_client_info": {
+          "package_name": "com.dlvtech.elitepageframework_peculiar_school"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:2550554c2909ca7c0057b2",
+        "android_client_info": {
+          "package_name": "com.dlvtech.elitepageframework_sambank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-ev9uggncbh5ivbcb545c5b2dgdvvc3v3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dlvtech.elitepageframework_sambank",
+            "certificate_hash": "6b4d0b8613e10bebe91dce7e62792dadd3db187b"
+          }
+        },
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:7d1c434991ac59bd0057b2",
+        "android_client_info": {
+          "package_name": "com.dlvtech.elitepageframework_veeky_veeky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589420873783:android:842e9b13bca8c9b90057b2",
+        "android_client_info": {
+          "package_name": "com.example.elitepage_two"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68eGCk-6g1Zt4v1sFUS8ksIjFduFidZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589420873783-215c0n7dv1vamfmuha2p7ptrs47878cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
