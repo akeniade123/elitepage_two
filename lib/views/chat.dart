@@ -14,7 +14,7 @@ class ChatSection extends StatefulWidget {
 GlobalKey<_ChatSectionState> chats = GlobalKey();
 
 class _ChatSectionState extends State<ChatSection> {
-  String reciept = "Reading";
+  String reciept = "Read";
   String sent = "Sent";
 
   Future<void> updateUI(String snt, String rcp) async {
